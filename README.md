@@ -7,6 +7,8 @@ This repository focuses on development of a decentralized banking system which i
 
 DeFi Bank provides Witdraw, borrow and payoff fucntionalities. All the data and business logic are stored and run on Ethereum blockchain by smart contracts.
 
+**Note:** The project is on just *initial status*. It will be developed with regular commits day by day.
+
 ## Theory
 2019 was the year of Decentralized Finance, aka DeFi. Simply put DeFi is the collective name given to an ecosystem of financial applications built on top of the blockchain  also known as Decentralized Banking. The main aim of DeFi is to create a financial service ecosystem that’s open-source, permissionless, transparent and without any central authority. Within this ecosystem, the users have full control over their assets and they can interact with the ecosystem through decentralized applications (dApps).
 
@@ -83,3 +85,4 @@ Ahmet Özlü
 
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
+
